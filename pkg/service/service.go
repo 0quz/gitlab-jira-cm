@@ -1,6 +1,6 @@
 package service
 
-import "github.com/0quz/gitlab-jira-integration/pkg/model"
+import "github.com/0quz/gitlab-jira-cm/pkg/model"
 
 // dependency part
 type MarcoService struct {

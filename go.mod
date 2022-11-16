@@ -1,4 +1,4 @@
-module github.com/0quz/gitlab-jira-integration
+module github.com/0quz/gitlab-jira-cm
 
 go 1.19
 

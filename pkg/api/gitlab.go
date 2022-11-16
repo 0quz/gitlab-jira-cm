@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/0quz/gitlab-jira-integration/pkg/middleware"
-	"github.com/0quz/gitlab-jira-integration/pkg/service"
+	"github.com/0quz/gitlab-jira-cm/pkg/middleware"
+	"github.com/0quz/gitlab-jira-cm/pkg/service"
 	"gorm.io/gorm"
 )
 

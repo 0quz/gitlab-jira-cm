@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/0quz/gitlab-jira-integration/pkg/model"
+	"github.com/0quz/gitlab-jira-cm/pkg/model"
 )
 
 // Struct for incoming request
