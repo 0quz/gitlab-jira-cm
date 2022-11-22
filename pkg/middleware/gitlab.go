@@ -8,7 +8,7 @@ import (
 	"github.com/0quz/gitlab-jira-cm/pkg/service"
 )
 
-// the key for caching after the middleware section.
+// the key for context after the middleware section.
 type KeyMergeRequest struct{}
 
 // the middleware that checks to convert data from JSON and validates
