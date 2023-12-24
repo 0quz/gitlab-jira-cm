@@ -1,3 +1,1 @@
-This project was written for the change management process of the company.
-
-The project aims to manage the whole change management process making it automatic.
+This project was written for the change management process of the company. It aims to manage the whole change management process making it automatic. For example, you create a merge request in GitLab. The Cm service creates a Jira task about that merge request.
